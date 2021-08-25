@@ -1,0 +1,17 @@
+{
+    "name": "oosuite\/support",
+    "description": "Support Tools",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oosuite",
+            "email": "support@oosuite.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Oosuite\\Support\\": "src"
+        }
+    }
+}
