@@ -1,5 +1,5 @@
 <?php
-namespace Oosuite\Support;
+namespace Eb\Support;
 
 use Illuminate\Support\Facades\DB;
 

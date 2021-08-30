@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Oosuite\Support;
+namespace Eb\Support;
 
 use Jenssegers\Mongodb\Eloquent\Model;
 

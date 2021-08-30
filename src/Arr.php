@@ -1,6 +1,6 @@
 <?php
 
-namespace Oosuite\Support;
+namespace Eb\Support;
 
 class Arr extends \Illuminate\Support\Arr
 {

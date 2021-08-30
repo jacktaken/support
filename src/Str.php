@@ -11,7 +11,7 @@
  *
  */
 
-namespace Oosuite\Support;
+namespace Eb\Support;
 
 class Str extends \Illuminate\Support\Str
 {

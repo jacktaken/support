@@ -1,6 +1,6 @@
 <?php
 
-namespace Oosuite\Support;
+namespace Eb\Support;
 
 class File extends \Illuminate\Support\Facades\File
 {
